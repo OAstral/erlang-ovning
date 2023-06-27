@@ -1,0 +1,2 @@
+-module(mathStuff).
+-export([perimeter/1]).
